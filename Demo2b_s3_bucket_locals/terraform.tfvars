@@ -1,0 +1,1 @@
+s3_regions = "eu-west-1"

@@ -1,0 +1,2 @@
+ck-s3-st3-bucket 
+ck-s3-st3-bucket.s3.amazonaws.com 
